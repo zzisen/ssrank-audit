@@ -1,6 +1,6 @@
 # Reproducibility status
 
-The Zenodo archive is pending publication.
+The v1.0.0 Zenodo archive is https://doi.org/10.5281/zenodo.24414234.
 
 ## Tests performed
 

@@ -4,7 +4,7 @@ Companion software and reproducibility repository for:
 
 > **Zisen Zhou (2026).** *Signature-Internal Inductive Rank Scoring for Human Heart-Failure Transcriptional Signatures: Algebraic Invariances, Cross-Platform Transfer Boundaries, and Retrospective External Evaluation.* Manuscript prepared for *Computer Methods and Programs in Biomedicine* (Elsevier).
 
-- **Zenodo Archival Release (derived source data + figures + code snapshot):** Pending Zenodo publication.
+- **Zenodo Archival Release (derived source data + figures + code snapshot):** https://doi.org/10.5281/zenodo.24414234 (v1.0.0).
 - **Core Module Dependencies:** Python >= 3.10, `numpy`, and `scipy` only (`ssrank_audit.py`).
 
 ## Quickstart
