@@ -1,0 +1,41 @@
+{
+  "full_cohort_column_permutation_max_abs_diff": {
+    "GSE314310_ALL_235_samples": {
+      "SS-Rank-Internal": 0.0,
+      "SS-Rank": 0.0,
+      "singscore-Internal": 0.0,
+      "singscore": 0.0,
+      "ssGSEA_tie_avg": 0.0,
+      "GSVA_midrank_tie_avg": 0.0,
+      "GSVA_rightECDF_tie_avg": 0.0,
+      "GSVA_Gaussian_tie_avg": 0.0
+    },
+    "GSE198945_ALL_40_samples": {
+      "SS-Rank-Internal": 0.0,
+      "SS-Rank": 0.0,
+      "singscore-Internal": 0.0,
+      "singscore": 0.0,
+      "ssGSEA_tie_avg": 0.0,
+      "GSVA_midrank_tie_avg": 0.0,
+      "GSVA_rightECDF_tie_avg": 0.0,
+      "GSVA_Gaussian_tie_avg": 3.091590650150522e-09
+    }
+  },
+  "reheat2_moesm3_included_gses": [
+    "GSE120064",
+    "GSE141910",
+    "GSE145154",
+    "GSE175764",
+    "GSE183852",
+    "GSE185100",
+    "GSE203160",
+    "GSE205734",
+    "GSE226314"
+  ],
+  "heldout_absent_from_reheat2_moesm3": {
+    "GSE198945": true,
+    "GSE263297": true,
+    "GSE249925": true
+  },
+  "runtime_seconds": 469.84
+}

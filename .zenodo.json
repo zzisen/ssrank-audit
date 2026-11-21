@@ -1,0 +1,18 @@
+{
+  "title": "ssrank-audit: signature-internal inductive rank scoring for human cardiac transcriptional signatures",
+  "upload_type": "software",
+  "description": "Software, selected derived data, and figures for a retrospective benchmark of single-sample rank scoring and cross-platform signature transportability. The archive does not include original third-party expression datasets; see README.md and THIRD_PARTY.md for provenance and reuse details.",
+  "creators": [
+    {
+      "name": "Zhou, Zisen",
+      "affiliation": "Auckland Bioengineering Institute, University of Auckland"
+    }
+  ],
+  "keywords": [
+    "gene signatures",
+    "single-sample scoring",
+    "heart failure",
+    "transcriptomics",
+    "cross-platform transfer"
+  ]
+}

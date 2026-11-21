@@ -88,7 +88,7 @@ python scripts/run_sensitivity_and_comparator_audit.py
 python scripts/build_figures.py
 ```
 
-The post-hoc 2,000-reassignment reference used in Figure 3 can be rebuilt independently with `python scripts/rebuild_weight_reassignment.py --release-dir . --data-dir data --output scratch/weight_reassignment_2000.csv --compare results/weight_reassignment_2000.csv` (the comparison target is intended for the Zenodo archive). The script refuses to overwrite an existing output. This is a descriptive reference rather than a P value.
+The post-hoc 2,000-reassignment reference used in Figure 3 can be rebuilt independently with `python scripts/rebuild_weight_reassignment.py --release-dir . --data-dir data --output scratch/weight_reassignment_2000.csv --compare results/weight_reassignment_2000.csv` (the comparison target is included in the results directory). The script refuses to overwrite an existing output. This is a descriptive reference rather than a P value.
 
 Three historical figure-input tables can be regenerated with `python scripts/rebuild_legacy_figure_inputs.py --target prevalence --output-dir scratch/legacy` and `python scripts/rebuild_legacy_figure_inputs.py --target v63 --output-dir scratch/legacy`. `python scripts/rebuild_zero_stress.py --output-dir scratch/legacy` reconstructs the historical fixed-column-order zero-inflation table. These commands refuse to overwrite their output files. In the historical zero perturbation, nonzero boundary ties can be resolved differently if input columns are reordered; see `REPRODUCIBILITY_STATUS.md`.
 
@@ -96,7 +96,7 @@ For the corrected Gaussian GSVA clinical-prevalence curve, `scripts/recompute_gs
 
 The 10-permutation zero-boundary sensitivity table is `results/zero_tie_permutation_results.csv`. Rebuild it using `python scripts/rebuild_zero_tie_permutation.py --output scratch/zero_tie_permutation_results.csv`. It uses seeds 2026112101–2026112110 and provides a descriptive sensitivity range, not a confidence interval.
 
-The GitHub code package carries the four seed tables but does not contain all the figure inputs; the planned separate archive contains selected derived results. See `REPRODUCIBILITY_STATUS.md` for the exact scope and limitations of tests, including incomplete source-to-manuscript provenance. Regeneration of all the manuscript's supplementary numbers has not been demonstrated.
+This repository includes selected derived results and the inputs used to build the figures. See `REPRODUCIBILITY_STATUS.md` for the exact scope and limitations of tests, including incomplete source-to-manuscript provenance. Regeneration of all the manuscript's supplementary numbers has not been demonstrated.
 
 ## License
 

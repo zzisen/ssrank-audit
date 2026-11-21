@@ -1,0 +1,30 @@
+{
+  "n_samples": 21,
+  "n_gene_rows": 20745,
+  "total_cells": 435645,
+  "blank_cells": 65779,
+  "blank_fraction_overall": 0.1509922069574998,
+  "blank_fraction_donor": 0.16808180973039974,
+  "blank_fraction_icm_all": 0.14244740557104982,
+  "blank_fraction_reheat2_mapped": 0.01837270341207349,
+  "reheat2_mapped_genes": 13335,
+  "reheat2_complete_case_genes": 12436,
+  "n_duplicate_symbols": 66,
+  "duplicate_symbol_examples": {
+    "DDX11L1": 3,
+    "SNORA59A": 2,
+    "LINC01725": 2,
+    "LINC00869": 2,
+    "LSP1P4": 2,
+    "MCL1": 2,
+    "SCNM1": 2,
+    "ACBD6": 2,
+    "CHML": 2,
+    "CEP170": 2
+  },
+  "finite_min": 1.0,
+  "finite_p01": 1.0,
+  "finite_median": 8.63662462054365,
+  "finite_max": 22.259532662998904,
+  "finite_negative_count": 0
+}

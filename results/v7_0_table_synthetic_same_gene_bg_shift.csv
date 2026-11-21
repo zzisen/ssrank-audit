@@ -1,0 +1,4 @@
+weight_config,m_identical,beta,ss_rank_full_mean_abs_shift,ss_rank_internal_mean_abs_shift
+Balanced (beta=0.00),200,0.0,0.012855725415070246,0.0
+Imbalanced (beta=0.50),200,0.5,0.16734031481481482,0.0
+Unsigned (beta=1.00),200,1.0,0.3343858783524904,0.0

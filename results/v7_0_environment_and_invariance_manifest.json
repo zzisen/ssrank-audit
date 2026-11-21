@@ -1,0 +1,17 @@
+{
+  "python": "3.10.6",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "2.1.3",
+  "scipy": "1.15.3",
+  "pandas": "2.3.1",
+  "scikit_learn": "1.7.0",
+  "column_permutation_max_abs_diff_gse314310": {
+    "SS-Rank-Internal": 0.0,
+    "SS-Rank": 0.0,
+    "singscore-Internal": 0.0,
+    "singscore": 0.0,
+    "ssGSEA_tie_avg": 0.0,
+    "GSVA_Gaussian_tie_avg": 0.0
+  },
+  "runtime_total_seconds": 1881.73
+}

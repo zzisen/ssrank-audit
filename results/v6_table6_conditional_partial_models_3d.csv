@@ -1,0 +1,41 @@
+score,adjustment,rho_or_partial_rho,p_two_sided
+Cohort-Z (mol_score),Unadjusted,-0.7126503237742832,1.9199076986833634e-08
+Cohort-Z (mol_score),+ Global L2 perturbation burden,-0.6509409557593034,9.683537152007295e-07
+Cohort-Z (mol_score),+ Hypoxia,-0.5963588662357646,1.2225727282509096e-05
+Cohort-Z (mol_score),+ Structural_exclusive,-0.671494996284672,3.2515521437855187e-07
+Cohort-Z (mol_score),+ Fibroblast_marker + ECM,-0.6483627741930115,1.465835529270334e-06
+Cohort-Z (mol_score),+ UPR + OXPHOS,-0.6943270359628492,1.2239057435949914e-07
+Cohort-Z (mol_score),+ All 7 fixed programs + L2 burden,-0.5445356104808622,0.0003385764813269011
+Cohort-Z (mol_score),+ 04h Force baseline,-0.4828647340495001,0.0006768165064933971
+Single-Sample Rank (mol_score),Unadjusted,-0.7032839962997225,3.5352931043084324e-08
+Single-Sample Rank (mol_score),+ Global L2 perturbation burden,-0.6392249656393502,1.740117526197904e-06
+Single-Sample Rank (mol_score),+ Hypoxia,-0.5860798824147979,1.8731552495886126e-05
+Single-Sample Rank (mol_score),+ Structural_exclusive,-0.6524292318407087,8.972566765049167e-07
+Single-Sample Rank (mol_score),+ Fibroblast_marker + ECM,-0.6462058899127487,1.6303107769417808e-06
+Single-Sample Rank (mol_score),+ UPR + OXPHOS,-0.6746325284013365,3.741344064326436e-07
+Single-Sample Rank (mol_score),+ All 7 fixed programs + L2 burden,-0.4996993607215308,0.0012001009436392002
+Single-Sample Rank (mol_score),+ 04h Force baseline,-0.47900701168756626,0.0007578370216220969
+Ref-Frozen-Z (mol_score),Unadjusted,-0.4355920444033302,0.0022113643875538262
+Ref-Frozen-Z (mol_score),+ Global L2 perturbation burden,-0.3075242303487809,0.0376166476801327
+Ref-Frozen-Z (mol_score),+ Hypoxia,-0.3049110621003544,0.039356046188087704
+Ref-Frozen-Z (mol_score),+ Structural_exclusive,-0.40854572597564354,0.004820485276938958
+Ref-Frozen-Z (mol_score),+ Fibroblast_marker + ECM,-0.33118128573325095,0.026266909411837725
+Ref-Frozen-Z (mol_score),+ UPR + OXPHOS,-0.34401014840953137,0.020674810258485818
+Ref-Frozen-Z (mol_score),+ All 7 fixed programs + L2 burden,-0.0228413728034776,0.8902236658532197
+Ref-Frozen-Z (mol_score),+ 04h Force baseline,-0.30048174869201766,0.042454555061670986
+Cohort-Z (ReHeaT2_CM),Unadjusted,-0.5187326549491212,0.00018736186671657873
+Cohort-Z (ReHeaT2_CM),+ Global L2 perturbation burden,-0.48046427214834414,0.000726262878216816
+Cohort-Z (ReHeaT2_CM),+ Hypoxia,-0.3917280232030123,0.007097334619443739
+Cohort-Z (ReHeaT2_CM),+ Structural_exclusive,-0.5630083450076399,4.6380542164746156e-05
+Cohort-Z (ReHeaT2_CM),+ Fibroblast_marker + ECM,-0.4626293435525377,0.0013754245382800467
+Cohort-Z (ReHeaT2_CM),+ UPR + OXPHOS,-0.49733387281857305,0.0005095816428528297
+Cohort-Z (ReHeaT2_CM),+ All 7 fixed programs + L2 burden,-0.4879140249188261,0.0016279182823859153
+Cohort-Z (ReHeaT2_CM),+ 04h Force baseline,-0.3638884905846738,0.012919806386980807
+Cohort-Z (ReHeaT2_Fib),Unadjusted,-0.6032608695652173,7.185478898980487e-06
+Cohort-Z (ReHeaT2_Fib),+ Global L2 perturbation burden,-0.5109673232045366,0.00028496347439585393
+Cohort-Z (ReHeaT2_Fib),+ Hypoxia,-0.48496930917961806,0.0006359728120725807
+Cohort-Z (ReHeaT2_Fib),+ Structural_exclusive,-0.5963527355882526,1.2228892488593755e-05
+Cohort-Z (ReHeaT2_Fib),+ Fibroblast_marker + ECM,-0.511629521373624,0.00032802660728158123
+Cohort-Z (ReHeaT2_Fib),+ UPR + OXPHOS,-0.5496076999466061,9.21592749807738e-05
+Cohort-Z (ReHeaT2_Fib),+ All 7 fixed programs + L2 burden,-0.41070620335432473,0.009400748478064066
+Cohort-Z (ReHeaT2_Fib),+ 04h Force baseline,-0.33674984468998737,0.022115305504518644

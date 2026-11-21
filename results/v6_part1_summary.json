@@ -1,0 +1,59 @@
+{
+  "v5_parity": {
+    "max_abs_score_diff": 2.220446049250313e-16,
+    "max_abs_force_diff": 0.0,
+    "n_usable_genes_main": 13256,
+    "n_rank_genes_main": 13300,
+    "n_ref_frozen_genes_main": 13182,
+    "n_adult_nf_ref_samples": 166,
+    "complete_repeat_pairs": 167
+  },
+  "l2_burden_rho_force": 0.3821692876965772,
+  "camera_vif": {
+    "ReHeaT2_mol_score": {
+      "n_genes": 13256,
+      "rho_bar_raw_unsigned": 0.028853000008790576,
+      "rho_bar_sign_aligned": 0.010827207026500456,
+      "vif_sign_aligned": 144.51462913626355,
+      "vif_weighted": 86.43381888046407,
+      "effective_independent_genes_weighted": 67.92016625293236,
+      "mean_sign_aligned_gene_rho": -0.052904723580031406,
+      "weighted_mean_gene_rho": -0.06330653746312888,
+      "t_naive_uncorrected": -19.210442341611177,
+      "p_naive_uncorrected": 3.8213165060256043e-81,
+      "t_camera_vif_adjusted": -1.598017234109223,
+      "df_camera": 45,
+      "p_camera_vif_adjusted": 0.1170382000324909
+    },
+    "ReHeaT2_CM": {
+      "n_genes": 10845,
+      "rho_bar_raw_unsigned": 0.042598229353101466,
+      "rho_bar_sign_aligned": 0.005645595132936683,
+      "vif_sign_aligned": 62.22083362156539,
+      "vif_weighted": 65.7483910502926,
+      "effective_independent_genes_weighted": 86.66573441319103,
+      "mean_sign_aligned_gene_rho": -0.04089369280318192,
+      "weighted_mean_gene_rho": -0.05145808662993502,
+      "t_naive_uncorrected": -13.004185796170189,
+      "p_naive_uncorrected": 2.2415295918857552e-38,
+      "t_camera_vif_adjusted": -1.6485998390730112,
+      "df_camera": 45,
+      "p_camera_vif_adjusted": 0.10619490613210568
+    },
+    "ReHeaT2_Fib": {
+      "n_genes": 9390,
+      "rho_bar_raw_unsigned": 0.04421366536878637,
+      "rho_bar_sign_aligned": 0.01494013895005465,
+      "vif_sign_aligned": 141.2729646020631,
+      "vif_weighted": 122.71429962046325,
+      "effective_independent_genes_weighted": 36.79051356792319,
+      "mean_sign_aligned_gene_rho": -0.050911536644391096,
+      "weighted_mean_gene_rho": -0.07816543015809008,
+      "t_naive_uncorrected": -15.1159627355493,
+      "p_naive_uncorrected": 5.052111819065122e-51,
+      "t_camera_vif_adjusted": -1.2717632854040106,
+      "df_camera": 45,
+      "p_camera_vif_adjusted": 0.20999078459075513
+    }
+  }
+}

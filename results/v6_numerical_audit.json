@@ -1,0 +1,14 @@
+{
+  "all_expected_files_present": true,
+  "missing_files": [],
+  "v5_3d_score_parity_lt_1e12": true,
+  "v5_3d_force_parity_exact_zero": true,
+  "v5_3d_primary_rho_match": true,
+  "v5_2d_amp_rho_match": true,
+  "v5_tpm1_wt_match": true,
+  "v5_gse165303_auc_match": true,
+  "gse141910_lvef_n_finite": 255,
+  "gse141910_lvef_rho_ss_rank_all": -0.7004735059163586,
+  "gse141910_lvef_rho_ss_rank_dcm": -0.10338342952498113,
+  "overall_status": "PASS"
+}
