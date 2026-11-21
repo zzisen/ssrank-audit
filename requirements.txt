@@ -1,0 +1,12 @@
+# Core scoring module (ssrank_audit.py) requires ONLY numpy and scipy:
+numpy>=2.1.3
+scipy>=1.15.3
+
+# Full benchmark and figure-generation harness additionally uses:
+pandas>=2.3.1
+scikit-learn>=1.6.1
+matplotlib>=3.10.0
+gseapy>=1.3.2
+
+# V5 seed-table replay (XLSX streaming):
+openpyxl>=3.1.1

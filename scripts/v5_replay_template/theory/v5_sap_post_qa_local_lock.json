@@ -1,0 +1,13 @@
+{
+  "purpose": "V5 candidate local freeze after RNA QA and before full V5 synthetic file/gate validation; not blind preregistration",
+  "created_utc": "2026-11-17T03:23:13.694345+00:00",
+  "files": {
+    "theory/P4_1_SAP_V5_POST_QA_REVIEW_DRAFT_2026-11-17.md": "2e1ad082acc5e27d97ed230c9d1891eb89198c4486bd187d34b89d2c2e0016ea",
+    "theory/P4_1_COMMON_FEATURE_PROTOCOL_161_2026-11-17.md": "64f7ccb072949b6b2d96deacd14142a02dce21afa408a3bfcecf11ea8f652250",
+    "simulations/p41_common_feature_recal_161.py": "b9244e72014c67ede8e39c0ca02a4dfed691e69c987d3d16d1fd6ef95a3824e5",
+    "simulations/p41_qa_intersection_bound_162.py": "89308f027972247aebff0afb9322c2bacd3b2e128c2b2d7006911b2a39561aec",
+    "reports/real_preflight/V5_RNA_ONLY_QA_3D_2026-11-17.json": "57dceaad3b52afdd40736583f1b48da35418279a7b2c44102d5b9a92de36febf",
+    "reports/real_preflight/V4_RNA_ONLY_QA_B6_2026-11-17.json": "1cd32edfe5ae63aeada8fa7f176e2946a1d1bbc4437f38e59f162e7603d15de4",
+    "reports/real_preflight/V4_RNA_QA_INTERSECTION_BOUND_2026-11-17.json": "1d9629be5295d196f50b1f9bd563c65f86630006cb753ef9e48e74bc623af540"
+  }
+}

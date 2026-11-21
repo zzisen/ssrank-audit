@@ -1,0 +1,304 @@
+{
+  "scope": "Independent_Experiment 04h/24h treatment/plate/well metadata only; no expression or function measurements extracted",
+  "candidate_main_labels": 47,
+  "repeat_labels_with_unique_matching_time_keys": 47,
+  "repeat_labels_no_unique_matching_time_key": 0,
+  "distribution_of_repeat_plates_per_label": {
+    "1": 2,
+    "2": 5,
+    "3": 14,
+    "4": 17,
+    "5": 9
+  },
+  "complete_label_plate_well_records": 167,
+  "repeat_cell_counts_per_plate": {
+    "P01": 33,
+    "P02": 38,
+    "P03": 27,
+    "P04": 30,
+    "P06": 39
+  },
+  "distribution_after_excluding_plates_without_wm_label": {
+    "1": 2,
+    "2": 5,
+    "3": 14,
+    "4": 17,
+    "5": 9
+  },
+  "anonymous_repeat_plate_incidence": {
+    "FAKE_L00": [
+      "P01",
+      "P02"
+    ],
+    "FAKE_L01": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L02": [
+      "P01",
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L03": [
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L04": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L05": [
+      "P01",
+      "P06"
+    ],
+    "FAKE_L06": [
+      "P01",
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L07": [
+      "P01",
+      "P02",
+      "P03"
+    ],
+    "FAKE_L08": [
+      "P01",
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L09": [
+      "P06"
+    ],
+    "FAKE_L10": [
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L11": [
+      "P01",
+      "P02",
+      "P06"
+    ],
+    "FAKE_L12": [
+      "P01",
+      "P02",
+      "P06"
+    ],
+    "FAKE_L13": [
+      "P01",
+      "P02",
+      "P04"
+    ],
+    "FAKE_L14": [
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L15": [
+      "P06"
+    ],
+    "FAKE_L16": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L17": [
+      "P01",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L18": [
+      "P01",
+      "P03",
+      "P04"
+    ],
+    "FAKE_L19": [
+      "P01",
+      "P02",
+      "P03",
+      "P04"
+    ],
+    "FAKE_L20": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L21": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L22": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L23": [
+      "P01",
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L24": [
+      "P04",
+      "P06"
+    ],
+    "FAKE_L25": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L26": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L27": [
+      "P01",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L28": [
+      "P01",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L29": [
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L30": [
+      "P02",
+      "P06"
+    ],
+    "FAKE_L31": [
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L32": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L33": [
+      "P02",
+      "P03",
+      "P04"
+    ],
+    "FAKE_L34": [
+      "P01",
+      "P02",
+      "P04"
+    ],
+    "FAKE_L35": [
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L36": [
+      "P02",
+      "P03"
+    ],
+    "FAKE_L37": [
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L38": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L39": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L40": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L41": [
+      "P01",
+      "P02",
+      "P03",
+      "P06"
+    ],
+    "FAKE_L42": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L43": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L44": [
+      "P02",
+      "P03",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L45": [
+      "P01",
+      "P02",
+      "P04",
+      "P06"
+    ],
+    "FAKE_L46": [
+      "P01",
+      "P03",
+      "P04",
+      "P06"
+    ]
+  },
+  "anonymization": "FAKE_L indices correspond to sorted candidate labels; only design incidence, no real outcomes",
+  "duplicate_label_plate_cells": 0,
+  "duplicate_or_nonunique_selected_keys": 0,
+  "time_label_mismatch_keys": 0,
+  "repeat_wm_available_plate_labels_24h": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P06"
+  ],
+  "labels_with_any_repeat_on_a_plate_with_wm": 47,
+  "interpretation": "Same label and a separate functional experiment do not establish dose, vehicle, reference-pool, cell-line/donor independence, independent RNA, or patient-level replication."
+}

@@ -1,0 +1,163 @@
+{
+  "format_version": "2.1",
+  "note": "File hashes identify the retained input versions. All 26 files were retrieved and checksum-validated on 2026-11-21; network availability and upstream contents may change.",
+  "files": [
+    {
+      "path": "datasets/GSE116250/GSE116250_rpkm.txt.gz",
+      "bytes": 7487245,
+      "sha256": "b99e4d9d53f0835ceb0885365f43d4a4329f6e5aee6709abc823e94b4ca21cda",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116250/suppl/GSE116250_rpkm.txt.gz"
+    },
+    {
+      "path": "datasets/GSE141910/MAGNet_GeneLengths.txt",
+      "bytes": 1180176,
+      "sha256": "989e18a95f61f9ac229ede8529a07b99b61e45c2277890c8f88d75702e9443b1",
+      "url": "https://raw.githubusercontent.com/mpmorley/MAGNet/master/GeneLengths.txt"
+    },
+    {
+      "path": "datasets/GSE141910/MAGNet_phenoData.csv",
+      "bytes": 53322,
+      "sha256": "034e8ebf1505c92ea5f1f68baffaa30ab54866af57e986ef2622aa6899f07c9d",
+      "url": "https://raw.githubusercontent.com/mpmorley/MAGNet/master/phenoData.csv"
+    },
+    {
+      "path": "datasets/GSE141910/MAGNet_raw_Counts.csv",
+      "bytes": 55109043,
+      "sha256": "0bdc6853b86e11396eff26c9e3a05ac00f32df7aa21c264e26b222edbc3b6d06",
+      "url": "https://www.dropbox.com/s/i5dthgl5c5ij5gd/Counts.csv?dl=1"
+    },
+    {
+      "path": "datasets/GSE165303/GSE165303_RNA-Seq_master_table.txt.gz",
+      "bytes": 20040757,
+      "sha256": "d50ef019c0bcb1c3eacff5c73e03e35eb5c4637efc92435c931ede50fe2a7a29",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165303/suppl/GSE165303_RNA-Seq_master_table.txt.gz"
+    },
+    {
+      "path": "datasets/GSE199242/GSE199242_countMatrix_2D+3D.csv.gz",
+      "bytes": 1000410,
+      "sha256": "8a0d8fa5b4d9799ada2f76f3e519bc11c9876ee27397e9db7fda756a7534fb42",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE199nnn/GSE199242/suppl/GSE199242_countMatrix_2D%2B3D.csv.gz"
+    },
+    {
+      "path": "datasets/GSE244740/GSE244740_processed_data_counts.txt.gz",
+      "bytes": 37354885,
+      "sha256": "ac11c31e1d65fb18df6aa179c037bf73de0b80b94c8df292cc9a39e8eb430e9c",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE244nnn/GSE244740/suppl/GSE244740_processed_data_counts.txt.gz"
+    },
+    {
+      "path": "datasets/GSE244740/iemt_a_2273378_sm6218.txt",
+      "bytes": 502770,
+      "sha256": "1aa17d502bb91fe3d3fb52f97a44f470d12f5f5cfdb8375f4c72a1faa9c34f4a",
+      "url": "https://ndownloader.figshare.com/files/43272915"
+    },
+    {
+      "path": "datasets/GSE251993/GSE251993_raw_counts.csv.gz",
+      "bytes": 1644827,
+      "sha256": "75936d6f1077c225c70c51d1f207e8c88ab6247e2e1ae4c34e095e77cacefdd1",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE251nnn/GSE251993/suppl/GSE251993_raw_counts.csv.gz"
+    },
+    {
+      "path": "datasets/GSE314310/Cardiopedia_Table_S2_normalized_function.xlsx",
+      "bytes": 418054,
+      "sha256": "75dd20b2c7f7e5ff1f5d6d6a94ea090c413f89a6d4df38391c8a09cd0fcc19b7",
+      "url": "https://ars.els-cdn.com/content/image/1-s2.0-S193459092600264X-mmc3.xlsx"
+    },
+    {
+      "path": "datasets/GSE314310/GSE314310_RSEM_Counts_Cardiopedia-Ligand.xlsx",
+      "bytes": 36327763,
+      "sha256": "b0bf98958ce0aa3ce19e5858414b048093e744a47675f5f3816cdb79a1706d88",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE314nnn/GSE314310/suppl/GSE314310_RSEM_Counts_Cardiopedia-Ligand.xlsx"
+    },
+    {
+      "path": "datasets/GSE349247/GSE349247_heart_rnaseq_gene_counts.csv.gz",
+      "bytes": 3746931,
+      "sha256": "09dec952357c228824f82b218423ad8f5e92f8a26b0c666eaa21c2449c5f112f",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE349nnn/GSE349247/suppl/GSE349247_heart_rnaseq_gene_counts.csv.gz"
+    },
+    {
+      "path": "datasets/GSE349247/GSE349247_series_matrix.txt.gz",
+      "bytes": 4954,
+      "sha256": "3c4c0b43bbc1dab19d76b9e447ba38e750427456eda9aa47cd63b096f03722df",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE349nnn/GSE349247/matrix/GSE349247_series_matrix.txt.gz"
+    },
+    {
+      "path": "datasets/GSE46224/GSE46224_Yang_et_al_human_heart_RNASeq.txt.gz",
+      "bytes": 2573839,
+      "sha256": "bf2f83cf06aeabed09bac4c3a01ca335b505329942b02ecefc1d982c8d1fa853",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46224/suppl/GSE46224_Yang_et_al_human_heart_RNASeq.txt.gz"
+    },
+    {
+      "path": "datasets/GSE57338/GSE57338_series_matrix.txt.gz",
+      "bytes": 56110721,
+      "sha256": "7bcc3b96442bb8b42fa5ee56537b943b01c0b3ce079d5c2d5c6f3db0f1778a1d",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57338/matrix/GSE57338_series_matrix.txt.gz"
+    },
+    {
+      "path": "datasets/ReHeaT2_zenodo_15261569/mol_consistency.csv",
+      "bytes": 3126694,
+      "sha256": "a2ed7a0ca9760f0eedf549de1f0b9bd813629a23f99c98700296d2c861e78a81",
+      "url": "https://zenodo.org/records/15261569/files/ZenodoRepo_v2.zip?download=1",
+      "archive_member": "zenodo_repo/core_sn/results/bulk_integration/mol_consistency.csv"
+    },
+    {
+      "path": "external_cohorts/GSE198945/GSE198945_samples.count.matrix.gz",
+      "bytes": 2199618,
+      "sha256": "e28dfa1dad45f045d57d6180d73423620600ba8f811a1484240db614067b7614",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198945/suppl/GSE198945_samples.count.matrix.gz"
+    },
+    {
+      "path": "external_cohorts/GSE198945/GSE198945_series_matrix.txt.gz",
+      "bytes": 3817,
+      "sha256": "ee3c11daa16860428c8dd27c76d9bd335c5bc2db8c0be239703b56daa25d53a7",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198945/matrix/GSE198945_series_matrix.txt.gz"
+    },
+    {
+      "path": "external_cohorts/GSE263297/GSE263297_HUNTER_RNAseq_data_Normalised_LOG2_transformed.xlsx",
+      "bytes": 9015620,
+      "sha256": "64291d55c852e52932e85a8ce1e98a74c433e003817f767cf36630e38529aabd",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263297/suppl/GSE263297_HUNTER_RNAseq_data_Normalised_LOG2_transformed.xlsx"
+    },
+    {
+      "path": "external_cohorts/GSE263297/GSE263297_series_matrix.txt.gz",
+      "bytes": 4513,
+      "sha256": "92a2cf7d5e62dbc737399c8bb50c67ab31890094a1f5840da5a550247e6db494",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263297/matrix/GSE263297_series_matrix.txt.gz"
+    },
+    {
+      "path": "external_cohorts/GSE249925/GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz",
+      "bytes": 6968101,
+      "sha256": "6df73918890094b9eccdeca61044cc83054218afab362223161e1783f1cd3e3f",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249925/suppl/GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz"
+    },
+    {
+      "path": "external_cohorts/GSE249925/GSE249925_series_matrix.txt.gz",
+      "bytes": 4970,
+      "sha256": "192ecf71a75751969f04edb9cdb444134550d50c2161bbb3a519ee9d40c66252",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249925/matrix/GSE249925_series_matrix.txt.gz"
+    },
+    {
+      "path": "reference/GPL11532.annot.gz",
+      "bytes": 5643604,
+      "sha256": "37b8fcd75b056d119998c1c05fc5948462ced6324a47bc3680a7b10b948381f1",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL11nnn/GPL11532/annot/GPL11532.annot.gz"
+    },
+    {
+      "path": "reference/Homo_sapiens.GRCh38.104.gtf.gz",
+      "bytes": 49701630,
+      "sha256": "2c1be3a18925eb033052f4019512eab4cb3227b2a87e7766787452fa6ebbb79c",
+      "url": "https://ftp.ensembl.org/pub/release-104/gtf/homo_sapiens/Homo_sapiens.GRCh38.104.gtf.gz"
+    },
+    {
+      "path": "datasets/GSE244740/iemt_a_2273378_sm6211.txt",
+      "bytes": 193741,
+      "sha256": "b3a3d1a0de53c1d7e57b283cf3ebfe1fa6f999067431faa2afd227e65d8e2280",
+      "url": "https://ndownloader.figshare.com/files/43272942"
+    },
+    {
+      "path": "datasets/ReHeaT2_publication/41467_2025_62219_MOESM10_ESM.csv",
+      "bytes": 3875979,
+      "sha256": "9bdd891f996b7bc6cfa5d943d87043eebc53792f983eb78fe5535707566eb33f",
+      "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-62219-6/MediaObjects/41467_2025_62219_MOESM10_ESM.csv"
+    }
+  ]
+}

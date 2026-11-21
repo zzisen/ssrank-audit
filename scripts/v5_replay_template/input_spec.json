@@ -1,0 +1,130 @@
+{
+  "3d": {
+    "scope": "P41_V5_3D_BIO_DESCRIPTIVE",
+    "inputs": {
+      "counts": {
+        "sha256": "b0bf98958ce0aa3ce19e5858414b048093e744a47675f5f3816cdb79a1706d88",
+        "size_bytes": 36327763,
+        "source_filename": "GSE314310_RSEM_Counts_Cardiopedia-Ligand.xlsx"
+      },
+      "function": {
+        "sha256": "75dd20b2c7f7e5ff1f5d6d6a94ea090c413f89a6d4df38391c8a09cd0fcc19b7",
+        "size_bytes": 418054,
+        "source_filename": "Cardiopedia_Table_S2_normalized_function.xlsx"
+      },
+      "incidence": {
+        "sha256": "302dbc4771adbb2b1ea99ab5c8ae6d2a86f61db7e7c8a61c8966715a0508d636",
+        "size_bytes": 1962,
+        "source_filename": "cardiopedia_treatment_plate_incidence_2026-11-16.json"
+      },
+      "programs": {
+        "sha256": "c0b7dba48a888b272cb23ad62f4d67562570bf188a52b7f7be7f93b79d44bf0d",
+        "size_bytes": 8579,
+        "source_filename": "fixed_programs.gmt"
+      },
+      "repeat_metadata": {
+        "sha256": "e053d2905cf220375e0416f2bb5d06e9fe1c81f9c30abf2beaff9b344c8aca25",
+        "size_bytes": 4891,
+        "source_filename": "cardiopedia_repeat_overlap_47_metadata_2026-11-16.json"
+      },
+      "signature": {
+        "sha256": "9bdd891f996b7bc6cfa5d943d87043eebc53792f983eb78fe5535707566eb33f",
+        "size_bytes": 3875979,
+        "source_filename": "41467_2025_62219_MOESM10_ESM.csv"
+      }
+    },
+    "implementation": {
+      "simulations/p41_b6_qc_generic_144.py": "a40dcac1f0061528f464c8a2bbaaf09d37b19332629358cd06a0a51806bb624f",
+      "simulations/p41_bound_presentation_153.py": "50aae20b79e28ca13993cd509bf6f32d7dd18033519a10d2f1028ab6132a54fc",
+      "simulations/p41_burden_100.py": "bf6dcf380e0ea6691d3f359433f2797fcf158036680c4b0a8b4eb22f62e5b944",
+      "simulations/p41_common_feature_recal_161.py": "b9244e72014c67ede8e39c0ca02a4dfed691e69c987d3d16d1fd6ef95a3824e5",
+      "simulations/p41_early_sensitivity_90.py": "65724240352fcfd494af5eabd3d33e7dc54d54ee2b287b3ca924fcbf9212bd05",
+      "simulations/p41_effect_diagnostics_84.py": "4361b58e380c638fa080bdc4f3619f2e5037e9c172da0b3b70fdf773c24c7ab0",
+      "simulations/p41_effect_size_131.py": "d222270ec8b503ddf1a7d86e74a5256a5cce3a0eeb7e01a9b6cd37526079f1c9",
+      "simulations/p41_feature_qc_141.py": "f56c10f7c077224ab91d107a17bececd7743ef28e790067fdb774ef51054c2b5",
+      "simulations/p41_gate_adapter_86.py": "c219ae41c3b208429d125effa6ec404b3ccfa75c9575d11e463ed52d58592367",
+      "simulations/p41_qc_entry_102.py": "f9d3f4f4729af6b1895c6cf03c3e639efe0ba59b79c0d7c95f0bff1ff9d85516",
+      "simulations/p41_qc_entry_103.py": "892bdfb23bfe1c0c11e014a29b23b9a268ceeaef4378c3cfb67a7146f4f02513",
+      "simulations/p41_qc_entry_104.py": "7552a28fff784071341dd83de133af4edcfac6f5c4f41a54ba5c0c8766c9e5b8",
+      "simulations/p41_qc_entry_105_known_weights.py": "b9733da3df5bc5654854124c549f745b55dae9c224781a0600d7f3deea114420",
+      "simulations/p41_qc_entry_99.py": "ead5182eedfe205d96dac467c5cbcace0e9d21fd7262e8de225ab942b124c192",
+      "simulations/p41_qc_only_gate_144.py": "6cd15e5c89914506877b37557205ae249514bf2c4be0b5ed79b949e2e80fe11f",
+      "simulations/p41_qc_preflight_98.py": "f21e88be400735492de1adedb9584849bcca6b99b4436e024f0883c5f1379239",
+      "simulations/p41_rank_bound_fast_127.py": "70ac70d58be2303097741417512126f2a24312b7e47534f81c3ef69b588f525e",
+      "simulations/p41_recalibration_139.py": "b191473b7bb14de64ef62ad57fdbf3350073561fd181779c7e3763ebfd4b7fdf",
+      "simulations/p41_rna_qc_synthetic_142.py": "4b1f0f63062a73125c5ed9ad521bbde876531e9d7fd185707877a2415ce2caa3",
+      "simulations/p41_signed_coverage_candidate_134.py": "ee9a3e872e7e0fe29eed2f366921dea3e1503c8f7f79ab4ccc4ebaae7b6e0691",
+      "simulations/p41_v3_b6_plan_116.py": "960ca0ff20d033d5b3b64d264c2ca8e44581ea7fffac790bda23dc63d8ba8a11",
+      "simulations/p41_v3_b6_runner_119.py": "d340d5d9c9980f6532bc4aa74da3589209e5344a858fb3f9c786fe5b0cd508af",
+      "simulations/p41_v3_primary_core_114.py": "e8885cde9796e94853b7032c4f662020c7ecb2cf0c7197316041dde72f448a04",
+      "simulations/p41_v3_primary_runner_118.py": "bfb0915566432e60084680e7b18bef69f006a4e056b9360cde5d378fc680ec48",
+      "simulations/p41_v5_3d_bio_gate_163.py": "5bd2594815267fee60fe084e39d146f24faa247555db075fcf338f512ef16d4f",
+      "simulations/p41_within_between_94.py": "cf2fe6674ff4a0713b2cc46427b012738d5aae31bee32b435342ea3bb93ff829",
+      "theory/P4_1_SAP_V5_POST_QA_REVIEW_DRAFT_2026-11-17.md": "2e1ad082acc5e27d97ed230c9d1891eb89198c4486bd187d34b89d2c2e0016ea",
+      "theory/P4_1_V5_BIO_GATES_PROTOCOL_163_164_2026-11-17.md": "1d303d489d83c28f6d391489b5377f9271a3f9875c3ae6ad8cc284ea0a9397ea",
+      "theory/v5_sap_post_qa_local_lock.json": "85808a90158dd01a6a8e86669263c62f2164d798b79ce9d54232e354f613f9b3"
+    }
+  },
+  "b6": {
+    "scope": "P41_V5_B6_BIO_DESCRIPTIVE",
+    "inputs": {
+      "assays": {
+        "sha256": "b3a3d1a0de53c1d7e57b283cf3ebfe1fa6f999067431faa2afd227e65d8e2280",
+        "size_bytes": 193741,
+        "source_filename": "iemt_a_2273378_sm6211.txt"
+      },
+      "counts": {
+        "sha256": "ac11c31e1d65fb18df6aa179c037bf73de0b80b94c8df292cc9a39e8eb430e9c",
+        "size_bytes": 37354885,
+        "source_filename": "GSE244740_processed_data_counts.txt.gz"
+      },
+      "gtf": {
+        "sha256": "2c1be3a18925eb033052f4019512eab4cb3227b2a87e7766787452fa6ebbb79c",
+        "size_bytes": 49701630,
+        "source_filename": "Homo_sapiens.GRCh38.104.gtf.gz"
+      },
+      "programs": {
+        "sha256": "c0b7dba48a888b272cb23ad62f4d67562570bf188a52b7f7be7f93b79d44bf0d",
+        "size_bytes": 8579,
+        "source_filename": "fixed_programs.gmt"
+      },
+      "samples": {
+        "sha256": "1aa17d502bb91fe3d3fb52f97a44f470d12f5f5cfdb8375f4c72a1faa9c34f4a",
+        "size_bytes": 502770,
+        "source_filename": "iemt_a_2273378_sm6218.txt"
+      },
+      "signature": {
+        "sha256": "9bdd891f996b7bc6cfa5d943d87043eebc53792f983eb78fe5535707566eb33f",
+        "size_bytes": 3875979,
+        "source_filename": "41467_2025_62219_MOESM10_ESM.csv"
+      }
+    },
+    "implementation": {
+      "simulations/p41_b6_magnitude_133.py": "d4f935918c62f3b99601e37bcdbe4b5cf469dea99556843e0f47adf4b57902ad",
+      "simulations/p41_b6_qc_generic_144.py": "a40dcac1f0061528f464c8a2bbaaf09d37b19332629358cd06a0a51806bb624f",
+      "simulations/p41_burden_100.py": "bf6dcf380e0ea6691d3f359433f2797fcf158036680c4b0a8b4eb22f62e5b944",
+      "simulations/p41_early_sensitivity_90.py": "65724240352fcfd494af5eabd3d33e7dc54d54ee2b287b3ca924fcbf9212bd05",
+      "simulations/p41_effect_diagnostics_84.py": "4361b58e380c638fa080bdc4f3619f2e5037e9c172da0b3b70fdf773c24c7ab0",
+      "simulations/p41_effect_size_131.py": "d222270ec8b503ddf1a7d86e74a5256a5cce3a0eeb7e01a9b6cd37526079f1c9",
+      "simulations/p41_feature_qc_141.py": "f56c10f7c077224ab91d107a17bececd7743ef28e790067fdb774ef51054c2b5",
+      "simulations/p41_gate_adapter_86.py": "c219ae41c3b208429d125effa6ec404b3ccfa75c9575d11e463ed52d58592367",
+      "simulations/p41_qc_entry_102.py": "f9d3f4f4729af6b1895c6cf03c3e639efe0ba59b79c0d7c95f0bff1ff9d85516",
+      "simulations/p41_qc_entry_103.py": "892bdfb23bfe1c0c11e014a29b23b9a268ceeaef4378c3cfb67a7146f4f02513",
+      "simulations/p41_qc_entry_104.py": "7552a28fff784071341dd83de133af4edcfac6f5c4f41a54ba5c0c8766c9e5b8",
+      "simulations/p41_qc_entry_105_known_weights.py": "b9733da3df5bc5654854124c549f745b55dae9c224781a0600d7f3deea114420",
+      "simulations/p41_qc_entry_99.py": "ead5182eedfe205d96dac467c5cbcace0e9d21fd7262e8de225ab942b124c192",
+      "simulations/p41_qc_only_gate_144.py": "6cd15e5c89914506877b37557205ae249514bf2c4be0b5ed79b949e2e80fe11f",
+      "simulations/p41_qc_preflight_98.py": "f21e88be400735492de1adedb9584849bcca6b99b4436e024f0883c5f1379239",
+      "simulations/p41_rna_qc_synthetic_142.py": "4b1f0f63062a73125c5ed9ad521bbde876531e9d7fd185707877a2415ce2caa3",
+      "simulations/p41_v3_b6_plan_116.py": "960ca0ff20d033d5b3b64d264c2ca8e44581ea7fffac790bda23dc63d8ba8a11",
+      "simulations/p41_v3_b6_runner_119.py": "d340d5d9c9980f6532bc4aa74da3589209e5344a858fb3f9c786fe5b0cd508af",
+      "simulations/p41_v3_primary_core_114.py": "e8885cde9796e94853b7032c4f662020c7ecb2cf0c7197316041dde72f448a04",
+      "simulations/p41_v3_primary_runner_118.py": "bfb0915566432e60084680e7b18bef69f006a4e056b9360cde5d378fc680ec48",
+      "simulations/p41_v5_b6_bio_gate_164.py": "54f5f857f5cf982fce11cb55ad077280a1912c72c7e65c68776afe5302c483ee",
+      "simulations/p41_within_between_94.py": "cf2fe6674ff4a0713b2cc46427b012738d5aae31bee32b435342ea3bb93ff829",
+      "theory/P4_1_SAP_V5_POST_QA_REVIEW_DRAFT_2026-11-17.md": "2e1ad082acc5e27d97ed230c9d1891eb89198c4486bd187d34b89d2c2e0016ea",
+      "theory/P4_1_V5_BIO_GATES_PROTOCOL_163_164_2026-11-17.md": "1d303d489d83c28f6d391489b5377f9271a3f9875c3ae6ad8cc284ea0a9397ea",
+      "theory/v5_sap_post_qa_local_lock.json": "85808a90158dd01a6a8e86669263c62f2164d798b79ce9d54232e354f613f9b3"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "scope": "RNA sample-title identifiers and treatment/plate/well labels only; no expression or functional values extracted",
+  "input_sha256": {
+    "workbook": "75dd20b2c7f7e5ff1f5d6d6a94ea090c413f89a6d4df38391c8a09cd0fcc19b7",
+    "series": "4fea410df1ff0ecb2adb6fd79ce2bfdd6f1ddba3bd6c94ae83c5a20a31808afc"
+  },
+  "primary_five_plates": [
+    "P01",
+    "P03",
+    "P04",
+    "P05",
+    "P06"
+  ],
+  "rna_keys_in_both_times": 468,
+  "unique_keys_both_times": 467,
+  "unique_keys_with_matching_trimmed_label": 467,
+  "plate_label_counts": {
+    "P01": 65,
+    "P03": 75,
+    "P04": 73,
+    "P05": 75,
+    "P06": 69,
+    "P07": 13
+  },
+  "noncontrol_label_presence_distribution_across_first_five": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 22,
+    "5": 47
+  },
+  "noncontrol_labels_on_all_five": [
+    "7α,25-OHC",
+    "AA",
+    "ADM",
+    "ANGPT-1",
+    "ATP",
+    "Adipo",
+    "Adrenaline",
+    "Apelin",
+    "BDNF",
+    "BMP-4",
+    "BNP",
+    "CNTF",
+    "Dopamine",
+    "EGF",
+    "ET-1",
+    "ET-2",
+    "FGF-1",
+    "GDNF",
+    "Galectin-3",
+    "HGF",
+    "Histamine",
+    "IFN-γ",
+    "IGF-1",
+    "IL-13",
+    "IL-4",
+    "IL-6",
+    "LIF",
+    "LPA",
+    "LTB4",
+    "Leptin",
+    "NPY",
+    "NRG-1",
+    "Noradrenaline",
+    "PACAP-27",
+    "PDGF-AA",
+    "PDGF-BB",
+    "PEDF",
+    "PGE2",
+    "PLG",
+    "PTH",
+    "Pleiotrophin",
+    "RSPO-1",
+    "TNF-α",
+    "TRAIL",
+    "Thrombin",
+    "VEGF-A121",
+    "VEGF-A165"
+  ],
+  "control_labels_on_all_five": [
+    "CTRL-DMSO",
+    "CTRL-Ethanol",
+    "CTRL-WM"
+  ],
+  "all_five_noncontrol_cells": 235,
+  "all_five_noncontrol_cell_record_count_distribution": {
+    "1": 235
+  },
+  "all_five_noncontrol_records": 235,
+  "interpretation": "Identical treatment label alone does not establish same concentration, carrier, experimental batch or independent specimen. Counts are not outcome analyses."
+}

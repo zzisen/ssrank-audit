@@ -1,0 +1,112 @@
+{
+  "manifest_version": "1.0.0",
+  "download_date_utc": "2026-11-21",
+  "provenance_note": "Retrospective external clinical cohorts excluded from discovery signature/threshold fitting; no accession, author, or biobank match found in local 17-StudyID ReHeaT_study_metadata_MOESM3.csv or Lanzer et al. (2025) full-text XML, while complete donor-level independence across all 25 core + 9 supporting ReHeaT2 studies and biobanks cannot be proven without donor crosswalks.",
+  "known_biobank_and_sample_disclosures": {
+    "GSE198945": "Contains F2_C14 and F2_C14_lib2 (log2-CPM r = 0.9912; log2-count r = 0.9724); reported as 40 profiles with 39-profile drop/merge sensitivity in Table S9b (count-merge relies on technical-replicate assumption).",
+    "GSE263297": "Author-deposited log2 normalized Excel contains 15.10% blank cells overall (1.84% in mapped ReHeaT2 genes; finite min = 1.000, 0 negatives) and 66 duplicate symbols; blank-cell semantics unconfirmed by depositors (GEO GSM8189290 cites CPM/log2/voom); 5-regime sensitivity in Table S9b.",
+    "GSE249925": "Mayo Clinic surgical myectomy oHCM (n=97) vs transplant donor control (n=23) cohort sharing Sydney Heart Bank control collaboration (no donor crosswalk); GEO series matrix ambiguously cites both TMM normalized reads and raw gene-count matrix."
+  },
+  "files": [
+    {
+      "gse": "GSE198945",
+      "geo_public_date": "2025-03-18",
+      "role": "data",
+      "file": "GSE198945_samples.count.matrix.gz",
+      "bytes": 2199618,
+      "sha256": "e28dfa1dad45f045d57d6180d73423620600ba8f811a1484240db614067b7614",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198945/suppl/GSE198945_samples.count.matrix.gz"
+    },
+    {
+      "gse": "GSE198945",
+      "geo_public_date": "2025-03-18",
+      "role": "series_matrix",
+      "file": "GSE198945_series_matrix.txt.gz",
+      "bytes": 3817,
+      "sha256": "ee3c11daa16860428c8dd27c76d9bd335c5bc2db8c0be239703b56daa25d53a7",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198945/matrix/GSE198945_series_matrix.txt.gz"
+    },
+    {
+      "gse": "GSE263297",
+      "geo_public_date": "2025-04-04",
+      "role": "data",
+      "file": "GSE263297_HUNTER_RNAseq_data_Normalised_LOG2_transformed.xlsx",
+      "bytes": 9015620,
+      "sha256": "64291d55c852e52932e85a8ce1e98a74c433e003817f767cf36630e38529aabd",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263297/suppl/GSE263297_HUNTER_RNAseq_data_Normalised_LOG2_transformed.xlsx"
+    },
+    {
+      "gse": "GSE263297",
+      "geo_public_date": "2025-04-04",
+      "role": "series_matrix",
+      "file": "GSE263297_series_matrix.txt.gz",
+      "bytes": 4513,
+      "sha256": "92a2cf7d5e62dbc737399c8bb50c67ab31890094a1f5840da5a550247e6db494",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263297/matrix/GSE263297_series_matrix.txt.gz"
+    },
+    {
+      "gse": "GSE249925",
+      "geo_public_date": "2024-11-12",
+      "role": "data",
+      "file": "GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz",
+      "bytes": 6968101,
+      "sha256": "6df73918890094b9eccdeca61044cc83054218afab362223161e1783f1cd3e3f",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249925/suppl/GSE249925_20231208-For-GEO-Raw-Counts.tsv.gz"
+    },
+    {
+      "gse": "GSE249925",
+      "geo_public_date": "2024-11-12",
+      "role": "series_matrix",
+      "file": "GSE249925_series_matrix.txt.gz",
+      "bytes": 4970,
+      "sha256": "192ecf71a75751969f04edb9cdb444134550d50c2161bbb3a519ee9d40c66252",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE249nnn/GSE249925/matrix/GSE249925_series_matrix.txt.gz"
+    }
+  ],
+  "reference_datasets": [
+    {
+      "accession": "Zenodo:15261569",
+      "description": "ReHeaT2 consensus HF weights (mol_consistency.csv)"
+    },
+    {
+      "accession": "GSE314310",
+      "description": "Cardiopedia 3D hCO bulk RNA-seq and 13 biomechanical endpoints"
+    },
+    {
+      "accession": "GSE244740",
+      "description": "ScreenSeq 2D hiPSC-CM cardiotoxicity RNA-seq and optical amplitude"
+    },
+    {
+      "accession": "GSE251993",
+      "description": "Isogenic TPM1 (WT, E54K, E62Q) EHT RNA-seq"
+    },
+    {
+      "accession": "GSE199242",
+      "description": "2D vs 3D DMD 263delG EHT RNA-seq"
+    },
+    {
+      "accession": "GSE165303",
+      "description": "Adult LV DCM processed RNA-seq (51 NF vs 50 DCM)"
+    },
+    {
+      "accession": "GSE349247",
+      "description": "Adult LV RNA-seq (13 Ctrl, 62 HF; age, sex, race, batch)"
+    },
+    {
+      "accession": "GSE116250",
+      "description": "Adult LV RPKM RNA-seq (14 NF, 50 HF)"
+    },
+    {
+      "accession": "GSE46224",
+      "description": "Adult LV FPKM paired Pre/Post-LVAD unloading (8 NF + 16 pairs)"
+    },
+    {
+      "accession": "GSE57338",
+      "description": "Adult LV Affymetrix GPL11532 microarray (136 NF vs 177 HF)"
+    },
+    {
+      "accession": "GSE141910",
+      "description": "MAGNet adult LV raw counts, LVEF, and gene lengths (166 NF vs 166 DCM)"
+    }
+  ]
+}
